@@ -1,0 +1,5 @@
+[[!meta title="circa main air"]]
+
+Maybe I just had an epiphany.
+
+[[!inline pages="entry/*" rootpage="entry"]]
