@@ -3,3 +3,6 @@
 Maybe I just had an epiphany.
 
 [[!inline pages="entry/*" rootpage="entry"]]
+
+[[!meta openid="http://mariana.ricci.myopenid.com/"
+server="http://www.myopenid.com/server"]]
