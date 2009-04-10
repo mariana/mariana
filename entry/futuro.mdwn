@@ -1,0 +1,52 @@
+Tengo un problema con la sobrecarga de información.
+
+Si fuera alguien "normal", supongo que simplemente podría nadar entre
+el desorden y los gigabytes de información regados que tengo en mi laptop,
+desktop, oficina y afines. Pero no...
+
+Dado que en los holidays tengo mucho tiempo libre en mis manos, he decidido
+dejar por escrito como planeo resolver este problema de una buena vez por
+todas.
+
+Desde hace rato estoy obsesionada con un par de tecnologías y he estado
+jugando con ellas en proyectos personales y en mi trabajo, me refiero a
+[amazon s3](http://s3.amazonaws.com/) y a [git](http://git-scm.org/).
+
+Lo que planeo hacer es lo siguiente:
+
+1. Comprar 3 HDs de al menos 750 GB.
+2. Mover TODA mi información a esos discos. Un disco debería bastar para todo,
+   un segundo disco se usaría como backup y el tercero se usaría como intento
+   de contrarrestar la influencia del maléfico Murphy. Al momento que escribo
+   estas líneas, se puede conseguir un HD en 65 US$, por lo que me puedo
+   llevar 3 en casi 200 US$.
+3. Apagar todos mis computadores y sólo encender aquellos que sea necesarios
+   para mi trabajo y/o diversión.
+4. Comenzar desde cero en cada uno de mis computadores. Esto significa,
+   eliminar TODOS los archivos de los directorios home de mis usuarios.
+5. Crear varios repositorios git, los cuales usaré para la gestión de TODA
+   mi información. Esta idea es elaborada con detalle por Joey Hess en su
+   [famoso post](http://kitenet.net/~joey/svnhome/) (en ciertos círculos
+   claro está) sobre como mantener todo un directorio home en cvs/svn/git.
+6. Agregar a los repositorios git la información que sea necesaria para
+   mi trabajo/diversión, la cual me veré obligado a ir buscando en mis HDs
+   de respaldo. Por supuesto, después de un tiempo esto será cada vez menos
+   necesario.
+7. Configurar git para que envíe una copia de cada commit en los repositorios
+   a amazon s3.
+8. ?????
+9. Profit!1!!one1!11!eins
+
+Alguien podría decir: "....WTF??!! demasiado trabajo..."
+
+Sin embargo yo veo algunas ventajas de todo esto, en primer lugar la ventaja
+obvia que provee git de tener el registro histórico de cualquier modificación
+que se haga a la información. En segundo lugar, tendría diversos backups de
+toda mi información en mis máquinas personales, por ejemplo mi directorio home
+estaría replicado entre mi desktop y mi laptop. En tercer lugar, el uso de
+amazon s3 provee la posibilidad de contar con backups offsite...
+
+Hell yeah, esto es lo que planeo hacer. Estaré reportando mis avances y alguna
+que otra interesante technicality por aca!
+
+Tschüss
