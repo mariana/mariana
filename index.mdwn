@@ -2,7 +2,7 @@
 
 Maybe I just had an epiphany.
 
-[[!inline pages="entry/*" rootpage="entry"]]
+[[!inline pages="entry/*"]]
 
 [[!meta openid="http://mariana.ricci.myopenid.com/"
 server="http://www.myopenid.com/server"]]
